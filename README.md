@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 E- Commerce Project: Project PJ -Product Website<br>
 Founders: Sharmine M. Cruz and Aaronn Daphne M. Gatchalian<br>
 Product Category: Sleepwear for all ages
