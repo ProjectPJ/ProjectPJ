@@ -1,4 +1,7 @@
 ### Hi there 👋
+E- Commerce Project: Project PJ -Product Website<br>
+Founders: Sharmine M. Cruz and Aaronn Daphne M. Gatchalian<br>
+Product Category: Sleepwear for all ages
 
 <!--
 **ProjectPJ/ProjectPJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
